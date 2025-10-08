@@ -34,6 +34,7 @@ In particular, the parameter *Z₀* allows formalization of an **open system**, 
 
 🔗 References: 
 [1] Depannemaecker et al., bioRxiv, 2024 – https://doi.org/10.1101/2024.08.01.606188 
+
 [2] Carlu et al., J. Neurophysiol., 2020 – https://doi.org/10.1152/jn.00399.2019
 
 ---
