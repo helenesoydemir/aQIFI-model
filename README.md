@@ -7,9 +7,8 @@
 
 During my internship, I worked on an extended **AdEx neuron model** that includes a slow variable to simulate **impaired ion regulation**, particularly under **elevated extracellular potassium conditions** [1].  This model captures pathological dynamics such as those observed in **epilepsy**.
 
-🧠 The long-term goal was to reformulate the model within the **Adaptative Quadratic Integrate-and-Fire (aQIF)** framework, making it compatible with the **Montbrió mean-field reduction** method, and enabling its extension to the population level.  In fact, this approach supports the derivation of a **reduced neural mass model** that preserves the essential dynamics of the original spiking network, paving the way for integration into **large-scale brain simulations**.
+🧠 The long-term goal was to reformulate the model within the **Adaptative Quadratic Integrate-and-Fire (aQIF)** framework, making it compatible with the **Montbrió mean-field reduction** method, and enabling its extension to the population level.  In fact, this approach supports the derivation of a **reduced neural mass model** that preserves the essential dynamics of the original spiking network, paving the way for integration into **large-scale brain simulations**. First, we will characterize this new model, identify its repertoire of interesting dynamical regimes, and finally analyze it using geometric singularity theory, fast–slow system decomposition, and bifurcation analysis.
 
-First, we will characterize this new model, identify its repertoire of interesting dynamical regimes, and finally analyze it using geometric singularity theory, fast–slow system decomposition, and bifurcation analysis.
 ---
 
 ## 📖 Scientific Abstract  
